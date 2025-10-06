@@ -1,0 +1,30 @@
+ body {
+            font-family: Arial, sans-serif;
+            margin: 0px;
+            padding: 0;
+            text-align: center;
+            background-color: #f9f9f9;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 15px 0;
+        }
+         header.welcome {
+            width: 25%;
+            height: 90%;
+            border: 1px solid black;
+        }
+        nav {
+            margin: 15px 0;
+            
+        }
+        nav a {
+            margin: 0 10px;
+            text-decoration: none;
+            color: #000000;
+            font-weight: bold;
+        }
+        section {
+            padding: 100px;
+        }
